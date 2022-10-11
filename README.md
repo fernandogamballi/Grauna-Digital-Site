@@ -1,2 +1,2 @@
 # Grauna-Digital-Site
- Site Graúna Dígital
+ Site da empresa Graúna Dígital

@@ -1,0 +1,19 @@
+.cabecalho__botao{
+    background: #f29a2b;
+    border: none;
+    border-radius: 30px;
+    color: #fff;
+    transition: all .1s ease-in-out;
+    width: 211px;
+    height: 42px;
+    font-size: 16px;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.cabecalho__botao:hover{
+    background: #fff;
+    color: #132442;
+    cursor: pointer;
+}

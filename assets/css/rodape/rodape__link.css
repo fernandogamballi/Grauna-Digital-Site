@@ -1,0 +1,14 @@
+.rodape__link{
+    color: #fdfdfd;
+    text-decoration: none;
+    text-transform: lowercase;
+}
+
+.rodape__link.ativo {
+    color: #333333;
+    font-weight: bold;
+}
+
+.rodape__link:hover {
+    text-decoration: underline;
+}
